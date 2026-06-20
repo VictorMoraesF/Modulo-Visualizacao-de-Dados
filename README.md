@@ -1,4 +1,4 @@
-# M-dulo-Visualiza-o-de-Dados
+# Modulo-Visualizacao-de-Dados
 Estou no capitulo de vizualização de gráficos no curso de cientista de dados da EBAC. aonde me pediram para criar 5 gráficos diferentes (Calor, Pizza, Disperção, Barra, Densidade de um CSV de um e-commerce.
 
 Este projeto realiza um pipeline completo de **Análise Exploratória de Dados (EDA)**, **Limpeza de Dados (Data Cleaning)** e **Visualização** utilizando uma base de dados de um e-commerce. O objetivo principal foi padronizar variáveis categóricas altamente bagunçadas, tratar inconsistências e gerar gráficos estatísticos claros para tomada de decisão.
